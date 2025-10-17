@@ -9,7 +9,7 @@ LENTIC HABITAT USE.
 
 Introduction, methods, results, summary
 
-AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 1 NAME, Mailing Address, State, USA (email);
+AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email);
 
 FIG.
 1.
