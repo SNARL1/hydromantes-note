@@ -1,0 +1,63 @@
+---
+title: "Meeting 16 October 2025"
+author: "Roland, Georgia, Parker"
+format: html
+editor: visual
+---
+
+**Meeting Notes - 16 October 2025 - Roland, Parker, Georgia**
+
+What observations we have:
+
+-   South Lyell nighttime 2024, 2025 (PL, GL, LW) :
+
+<!-- -->
+
+-   Goddard day/night 2025 (PL, GL) :
+
+-   Laurel nighttime 2024, 2025 (RK, FP, CS) : furthest south locality of H.
+    platycephalus, no salamanders during daytime surveys, 2024: \~15 individuals seen during nighttime surveys in \~20m shore along northern shoreline; 2025: 20-30 individuals along the southern shoreline during nighttime surveys and some in the water
+
+What’s the story that we want to tell?
+
+A novel natural history observation : large numbers congregating on alpine lakeshores (esp. at Laurel, S Lyell) using lake habitat
+
+Described habitat of H.
+platycephalus is wet granite seeps, under rocks.
+Our observations indicated H.
+platycephalus along lake shores and in lakes.
+
+-   Background research/literature search on H.
+    platycephalus… are our observation truly novel?
+
+Considerations regarding disclosing location information: see “[Do Not Publish](https://library.iucn-isg.org/documents/2017/Lindenmayer_2017_Science.pdf)” paper… How specific will we be with our locality information?
+Will this publication have any negative impacts on the species?
+(common species versus rare and sensitive species) ie.
+“Laurel Basin” vs “headwaters of Laurel Creek”...
+do we include coordinates of these unnamed lakes?
+
+Figures/visualizations?
+
+When choosing a journal to submit note to, think about "open access".
+Are the contents of a journal freely available to anyone or are the contents behind a pay wall?
+Open access journals may charge an additional fee compared to pay walled journals.
+
+Possible journals:
+
+-   natural history note in Herpetological Review (not open access): Guidelines available [here](https://ssarherps.org/wp-content/uploads/2020/02/NatHistNotes_FormattingGuidelines-Feb2020-1.pdf). Content from last five years available to SSAR members only. Previous content is open access.
+-   nature note in Ecology & Evolution (open access w/ author publication fee): Guidelines available [here](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6534) and [here](https://onlinelibrary.wiley.com/page/journal/20457758/homepage/forauthors.html).
+
+Because of the brevity of our observations, they are probably best suited as a Natural History Note in Herpetological Review.
+
+Writing logistics:
+
+There is interest in using this natural history note as an opportunity to learn how to write a manuscript using a reproducible workflow.
+RStudio/Quarto and Git/GitHub.
+
+R Studio: writing a manuscript directly in R Studio (open access, transparent process, not-for-profit, citation ease with code)
+
+Github for version control: keeping track of every version over time, allows remote collaboration, reproducible
+
+Resources for learning R/Github: [Happy Git with R](https://happygitwithr.com/), [R for Data Science](https://r4ds.had.co.nz/)
+
+Issues remaining to discuss and resolve: Authorship, timeframes, and responsibilities
