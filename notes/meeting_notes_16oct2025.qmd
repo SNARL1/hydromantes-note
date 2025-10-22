@@ -9,38 +9,23 @@ editor: visual
 
 What observations we have:
 
--   South Lyell nighttime 2024, 2025 (PL, GL, LW) :
-
-<!-- -->
-
--   Goddard day/night 2025 (PL, GL) :
-
--   Laurel nighttime 2024, 2025 (RK, FP, CS) : furthest south locality of H.
-    platycephalus, no salamanders during daytime surveys, 2024: \~15 individuals seen during nighttime surveys in \~20m shore along northern shoreline; 2025: 20-30 individuals along the southern shoreline during nighttime surveys and some in the water
+-   South Lyell nighttime 2024, 2025 (PL, GL, LW) : South Lyell nighttime 2024, 2025 (PL, GL, LW) : No H. platycephalus observed during daytime surveys. In 2024 we observed 11 individuals along one of the inlet channels and 1 along lake shore. In 2025 we only observed 2 along this inlet channel, however we saw \~60 individuals along the northern lake shore including 3 in the water
+-   Goddard day/night 2025 (PL, GL) : 6 H. Platycephalus flipped under rocks in the spray zone of a waterfall up the inlet of 10114 during the day in August 2025. Later that night, observed two or three H. platycephalus on the vegetated bank along the lake shore.
+-   Laurel nighttime 2024, 2025 (RK, FP, CS) : furthest south locality of H. platycephalus, no salamanders during daytime surveys, 2024: \~15 individuals seen during nighttime surveys in \~20m shore along northern shoreline; 2025: 20-30 individuals along the southern shoreline during nighttime surveys and some in the water
 
 What’s the story that we want to tell?
 
 A novel natural history observation : large numbers congregating on alpine lakeshores (esp. at Laurel, S Lyell) using lake habitat
 
-Described habitat of H.
-platycephalus is wet granite seeps, under rocks.
-Our observations indicated H.
-platycephalus along lake shores and in lakes.
+Described habitat of H. platycephalus is wet granite seeps, under rocks. Our observations indicated H. platycephalus along lake shores and in lakes.
 
--   Background research/literature search on H.
-    platycephalus… are our observation truly novel?
+-   Background research/literature search on H. platycephalus… are our observation truly novel?
 
-Considerations regarding disclosing location information: see “[Do Not Publish](https://library.iucn-isg.org/documents/2017/Lindenmayer_2017_Science.pdf)” paper… How specific will we be with our locality information?
-Will this publication have any negative impacts on the species?
-(common species versus rare and sensitive species) ie.
-“Laurel Basin” vs “headwaters of Laurel Creek”...
-do we include coordinates of these unnamed lakes?
+Considerations regarding disclosing location information: see “[Do Not Publish](https://library.iucn-isg.org/documents/2017/Lindenmayer_2017_Science.pdf)” paper… How specific will we be with our locality information? Will this publication have any negative impacts on the species? (common species versus rare and sensitive species) ie. “Laurel Basin” vs “headwaters of Laurel Creek”... do we include coordinates of these unnamed lakes?
 
 Figures/visualizations?
 
-When choosing a journal to submit note to, think about "open access".
-Are the contents of a journal freely available to anyone or are the contents behind a pay wall?
-Open access journals may charge an additional fee compared to pay walled journals.
+When choosing a journal to submit note to, think about "open access". Are the contents of a journal freely available to anyone or are the contents behind a pay wall? Open access journals may charge an additional fee compared to pay walled journals.
 
 Possible journals:
 
@@ -51,8 +36,7 @@ Because of the brevity of our observations, they are probably best suited as a N
 
 Writing logistics:
 
-There is interest in using this natural history note as an opportunity to learn how to write a manuscript using a reproducible workflow.
-RStudio/Quarto and Git/GitHub.
+There is interest in using this natural history note as an opportunity to learn how to write a manuscript using a reproducible workflow. RStudio/Quarto and Git/GitHub.
 
 R Studio: writing a manuscript directly in R Studio (open access, transparent process, not-for-profit, citation ease with code)
 
