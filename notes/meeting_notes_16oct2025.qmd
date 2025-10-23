@@ -9,8 +9,8 @@ editor: visual
 
 What observations we have:
 
--   South Lyell nighttime 2024, 2025 (PL, GL, LW) : South Lyell nighttime 2024, 2025 (PL, GL, LW) : No H. platycephalus observed during daytime surveys. In 2024 we observed 11 individuals along one of the inlet channels and 1 along lake shore. In 2025 we only observed 2 along this inlet channel, however we saw \~60 individuals along the northern lake shore including 3 in the water
--   Goddard day/night 2025 (PL, GL) : 6 H. Platycephalus flipped under rocks in the spray zone of a waterfall up the inlet of 10114 during the day in August 2025. Later that night, observed two or three H. platycephalus on the vegetated bank along the lake shore.
+-   South Lyell nighttime 2024 (PL, GL); South Lyell nighttime 2025 (PL, GL, LW) : No H. platycephalus observed during daytime surveys. In 2024 we observed 11 individuals along one of the inlet channels and 1 along the lake shore. In 2025 we only observed 2 along this inlet channel, however we saw \~60 individuals along the northern lake shore including 3 that were submerged in the water. Potentially noteworthy: lots of nocturnal activity in the water at this site compared to nocturnal surveys at other Sierra Nevada sites including active R. sierrae adults and tadpoles, P. regilla tadpoles, and aquatic invertebrates.
+-   Goddard day/night 2025 (PL, GL) : 6 H. Platycephalus flipped under rocks in the spray zone of a waterfall up the inlet of 10114 during the day (08/08/25) in August 2025. Later that night, observed two or three H. platycephalus on the vegetated bank along the lake shore very close to the water's edge and one H. platycephalus farther from the water (3-5m) on a dry, rocky slope. Two more flipped in the same inlet of 10114 on 08/09/25.
 -   Laurel nighttime 2024, 2025 (RK, FP, CS) : furthest south locality of H. platycephalus, no salamanders during daytime surveys, 2024: \~15 individuals seen during nighttime surveys in \~20m shore along northern shoreline; 2025: 20-30 individuals along the southern shoreline during nighttime surveys and some in the water
 
 What’s the story that we want to tell?
@@ -19,7 +19,7 @@ A novel natural history observation : large numbers congregating on alpine lakes
 
 Described habitat of H.
 platycephalus is wet granite seeps, under rocks.
-Our observations indicated H.
+Our observations indicate H.
 platycephalus along lake shores and in lakes.
 
 -   Background research/literature search on H. platycephalus… are our observation truly novel?
