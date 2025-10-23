@@ -7,9 +7,17 @@ editor: visual
 *HYDROMANTES PLATYCEPHALUS* (Mount Lyell Salamander).
 LENTIC HABITAT USE.
 
-Introduction, methods, results, summary
-
 AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email);
+
+Introductory paragraph.
+
+Laurel observations.
+
+South Lyell observations.
+
+Goddard observations.
+
+References
 
 FIG.
 1.
