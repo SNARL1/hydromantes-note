@@ -7,12 +7,68 @@ editor: visual
 *HYDROMANTES PLATYCEPHALUS* (Mount Lyell Salamander).
 LENTIC HABITAT USE.
 
+```{r}
+#| include: false
+#| code-fold: true
+
+# Load required packages
+if (!require(librarian)){
+  install.packages("librarian")
+  library(librarian)
+}
+librarian::shelf(here, readr, dplyr, tidyr, stringr, magrittr)
+
+# Read and clean Rovito (2010) Appendix CSV file of Hydromantes collection localities
+rovito <- read_csv(here("data", "Rovito_2010_MolecularEcology_appendix.csv")) %>%    # Read CSV file
+  rename_with(~ str_replace_all(tolower(str_trim(.x)), " ", "_")) %>%  # Remove leading/trailing spaces, lowercase, replace spaces with underscores
+  separate_rows(`catalogue_number`, sep = ",\\s*") %>%   # Split by comma
+  mutate(
+    catalogue_number = str_trim(catalogue_number),     # Remove leading/trailing spaces
+    catalogue_number = str_remove_all(catalogue_number, "[^0-9]"), # Keep only digits
+    catalogue_number = as.integer(catalogue_number)  # format as integer
+  ) %>%
+  filter(catalogue_number != "")                         # Drop any empty entries
+
+# Read and clean Arctos CSV file of Hydromantes collection localities
+arctos <- read_csv(here("data", "ArctosData_hydromantes_23oct2025.csv")) %>% # Read CSV file
+  rename_with(~ tolower(str_trim(.x))) %>%  # Remove leading/trailing spaces, lowercase
+  mutate(
+    guid = str_trim(guid),     # Remove leading/trailing spaces
+    guid = str_remove_all(guid, "[^0-9]"), # Keep only digits
+    guid = as.integer(guid),    # format as integer
+    spec_locality = str_replace_all(spec_locality, "Smith's Lake, Desolation Wilderness area", "Smith Lake, Desolation Wilderness area, El Dorado National Forest"), 
+    spec_locality = str_replace_all(spec_locality, "E side Smith Lake, Desolation Wilderness", "East side of Smith Lake, Desolation Wilderness, Eldorado National Forest")
+  ) %>%    # Replace similar descriptions of the same site with identical descriptions
+  filter(guid != "")
+  
+# Create new Arctos table from which Rovito (2010) records are removed
+arctos_norovito <- arctos %>% 
+  anti_join(rovito, join_by(guid == catalogue_number))
+
+# Distinct non-Rovito Arctos localities that are associated with lentic habitats
+arctos_norovito_lentic <- arctos_norovito %>% 
+  filter(str_detect(spec_locality, regex("lake|pond", ignore_case = TRUE))) %>%
+  distinct(spec_locality)
+
+# Distinct Rovito localities that are associated with lentic habitats
+rovito_lentic <- rovito %>% 
+  filter(str_detect(locality, regex("lake|pond", ignore_case = TRUE))) %>%
+  distinct(locality)
+  
+```
+
 Introductory paragraph.
 *Hydromantes platycephalus* is endemic to California's Sierra Nevada mountains (USA), where it is found at elevations ranging from 1220 to 3658 m.
 Across its range, it is closely associated with damp, rocky habitats, including talus piles, bedrock outcrops, flat rocks on bedrock or decomposed granite, under rocks at the edge of streams, and in waterfall spray zones (Wake and Papenfuss 2005. *In* Lannoo \[ed.\], Amphibian Declines: The Conservation Status of United States Species, pp. 783--784. University of California Press, Berkeley, California; Hansen and Shedd 2025. California Amphibians and Reptiles. Princeton University Press, Princeton, New Jersey).
-Despite the abundance of lakes and ponds in the higher elevations of the Sierra Nevada, we are not aware of any published accounts describing *H. platycephalus* utilizing such lentic habitats.
-Furthermore, a search of the Arctos online collection management system (https://arctos.database.museum/; 23 Oct 2025), a database that includes over 5 million records from natural and cultural history collections, produced 501 *H. platycephalus* records from 128 distinct localities.
-xx of these localities were described as being lentic habitats (i.e., included the words "lake" or "pond").
+Despite the abundance of lakes and ponds in the higher elevations of the Sierra Nevada, many with rocky shorelines that seem suitable for *H. platycephalus*, we are not aware of any published accounts describing *H. platycephalus* utilizing such lentic habitats.
+Rovito (2010. Molecular Ecology 19: 4554--4571, Appendix) lists `r n_distinct(rovito$locality)` localities from which he collected *H. platycephalus*.
+Of these, 13 are described as lakes (e.g., "Peeler Lake", "east side of Vogelsang Lake").
+However, in all such cases, salamanders were actually collected from seep habitat on the rocky slopes above the lake (Rovito, personal communication).
+In addition, a search of the Arctos online collection management system (https://arctos.database.museum/; 23 Oct 2025), a database that includes over 5 million records from natural and cultural history collections, produced `r nrow(arctos)` *H. platycephalus* records from `r n_distinct(arctos$spec_locality)` distinct localities.
+After removing the Rovito (2010) localities, only six of `r n_distinct(arctos_norovito$spec_locality)` known localities (`r round(6/((n_distinct(arctos_norovito$spec_locality)))*100)`%) are directly attributed to lentic habitats.
+As previously, it is likely that a lake name was used as a general locality description, but the salamanders were actually collected from a nearby non-lentic habitat.
+In summary, it is apparent that *H. platycephalus* is rarely, if ever, described as using lentic habitats.
+Here, we provide the first unambiguous description of *H. platycephalus* from lake habitats, including in three distinct areas in Yosemite, Kings Canyon, and Sequoia National Parks.
 
 Laurel observations.
 
