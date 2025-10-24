@@ -83,4 +83,4 @@ FIG.
 Short but descriptive caption that includes the scientific name of the pictured organism.
 PHOTO BY \[name of photographer, if applicable\]
 
-AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email);
+AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email); AUTHOR 3 NAME, Mailing Address, State, USA (email);
