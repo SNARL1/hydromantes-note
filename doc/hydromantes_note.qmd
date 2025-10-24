@@ -7,9 +7,12 @@ editor: visual
 *HYDROMANTES PLATYCEPHALUS* (Mount Lyell Salamander).
 LENTIC HABITAT USE.
 
-AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email);
-
 Introductory paragraph.
+*Hydromantes platycephalus* is endemic to California's Sierra Nevada mountains (USA), where it is found at elevations ranging from 1220 to 3658 m.
+Across its range, it is closely associated with damp, rocky habitats, including talus piles, bedrock outcrops, flat rocks on bedrock or decomposed granite, under rocks at the edge of streams, and in waterfall spray zones (Wake and Papenfuss 2005. *In* Lannoo \[ed.\], Amphibian Declines: The Conservation Status of United States Species, pp. 783--784. University of California Press, Berkeley, California; Hansen and Shedd 2025. California Amphibians and Reptiles. Princeton University Press, Princeton, New Jersey).
+Despite the abundance of lakes and ponds in the higher elevations of the Sierra Nevada, we are not aware of any published accounts describing *H. platycephalus* utilizing such lentic habitats.
+Furthermore, a search of the Arctos online collection management system (https://arctos.database.museum/; 23 Oct 2025), a database that includes over 5 million records from natural and cultural history collections, produced 501 *H. platycephalus* records from 128 distinct localities.
+xx of these localities were described as being lentic habitats (i.e., included the words "lake" or "pond").
 
 Laurel observations.
 
@@ -23,3 +26,5 @@ FIG.
 1.
 Short but descriptive caption that includes the scientific name of the pictured organism.
 PHOTO BY \[name of photographer, if applicable\]
+
+AUTHOR 1 NAME, Mailing Address, State, USA (email); AUTHOR 2 NAME, Mailing Address, State, USA (email);
