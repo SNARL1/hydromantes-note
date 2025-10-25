@@ -16,7 +16,7 @@ if (!require(librarian)){
   install.packages("librarian")
   library(librarian)
 }
-librarian::shelf(here, readr, dplyr, tidyr, stringr, magrittr)
+librarian::shelf(here, readr, dplyr, tidyr, stringr, magrittr, geosphere)
 
 # Read and clean Rovito (2010) Appendix CSV file of Hydromantes collection localities
 rovito <- read_csv(here("data", "Rovito_2010_MolecularEcology_appendix.csv")) %>%    # Read CSV file
@@ -54,7 +54,22 @@ arctos_norovito_lentic <- arctos_norovito %>%
 rovito_lentic <- rovito %>% 
   filter(str_detect(locality, regex("lake|pond", ignore_case = TRUE))) %>%
   distinct(locality)
-  
+
+# Calculate distances between localities
+locations <- tibble(
+  site = c("coyote", "laurel"),
+  x = c(-118.4764, -118.4920),   # Longitude (°)
+  y = c(36.3601, 36.3661)        # Latitude (°)
+)
+
+ref_lon <- -118.5554   # Define a reference point (Bullfrog Lakes)
+ref_lat <- 36.3948   
+
+locations <- locations %>%   # Calculate distance (in meters) from reference point to each site
+  mutate(distance_m = distHaversine(cbind(x, y), c(ref_lon, ref_lat)))
+
+dist_coyote <- round(locations$distance_m[locations$site == "coyote"], 1) / 1000   # Extract values for inline use
+dist_laurel <- round(locations$distance_m[locations$site == "laurel"], 1) / 1000  
 ```
 
 Introductory paragraph.
@@ -71,6 +86,21 @@ In summary, it is apparent that *H. platycephalus* is rarely, if ever, described
 Here, we provide the first unambiguous description of *H. platycephalus* from lake habitats, including in three distinct areas in Yosemite, Kings Canyon, and Sequoia National Parks.
 
 Laurel observations.
+On 06 Aug 2011 (2030-2130 h), RK searched for *H. platycephalus* in seeps flowing over granite outcrops above an unnamed lake (site id = 20279) located in the headwaters of Coyote Creek (36.3601°N, -118.4764°W, WGS 84, 3370 m).
+On 07 Aug 2011 (approximately 2100 h), RK searched similar habitat above and west of an unnamed lake (site id = 20276) located in the headwaters of Laurel Creek (36.3661°N, -118.4920°W, WGS 84, 3341 m).
+Coyote and Laurel Creeks are east-flowing tributaries of the Kern River, and are located west of the Sierra Nevada crest.
+Despite the searched sites being `r dist_coyote` km and `r dist_laurel` km, respectively, southeast of the southernmost known locality west of the Sierra Nevada crest, 5-10 *H. platycephalus* were found at each location.
+The Laurel Creek area was surveyed again during three days starting on 14 Jul 2024 (by FP and RK) and during two days starting on 12 Jul 2025 (by CS and RK).
+In 2024, we conducted one diurnal survey of the entire shoreline of 20276; 36.3671°N, -118.4883°W, WGS 84, 3292 m) and, on two consecutive nights, we surveyed the west and north shores of 20276 and the original granite outcrop locality.
+20276 is a typical Sierra Nevada alpine lake, with a surface area of 1.7 ha, maximum depth of 12.5 m, and a shoreline almost entirely of granite bedrock and boulder interspersed with short stretches of meadow vegetation and sandy beach.
+The immediate watershed surrounding the lake is dominated by granite bedrock and boulders, with scattered low-stature whitebark pines (*Pinus albicaulis*).
+During the diurnal and nocturnal surveys, 1-2 surveyors walked the lake shore slowly, searching all habitats, including rock crevices, overhanging banks, and sandy beaches.
+During the diurnal survey, no *H. platycephalus* were found at 20276.
+During the two nocturnal surveys, no *H. platycephalus* were found at the original outcrop locality and a total of 9 *H. platycephalus* were found at 20276 (2 on night 1 and 7 on night 2, all on the north shore).
+In 2025, we repeated this survey, conducting one diurnal survey and two nocturnal surveys of the entire shoreline of 20276 and one nocturnal survey of the original outcrop locality.
+Again, no *H. platycephalus* were seen during the diurnal survey of 20276 or the nocturnal survey of the original outcrop locality.
+However, we saw 20-30 *H. platycephalus* during each of the two nocturnal surveys of 20276, concentrated on the southeast and northeast shorelines.
+In both years, *H. platycephalus* seen at 20276 were observed on wet rocks and moss on the shore immediately adjacent to the lake.
 
 South Lyell observations.
 
