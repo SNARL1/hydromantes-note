@@ -133,6 +133,6 @@ FIG.
 Short but descriptive caption that includes the scientific name of the pictured organism.
 PHOTO BY \[name of photographer, if applicable\]
 
-AUTHOR 1 NAME, AUTHOR 2 NAME, AUTHOR 3 NAME, AUTHOR 4 NAME, AUTHOR 5 NAME, ROLAND A. KNAPP, Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA <!--# We could include everyone's email, or just one or two of the authors. Given the number of authors, including emails for every author might be a bit much. -->
+AUTHOR 1 NAME, AUTHOR 2 NAME, AUTHOR 3 NAME, AUTHOR 4 NAME, AUTHOR 5 NAME and ROLAND A. KNAPP, Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA <!--# We could include everyone's email, or just one or two of the authors. Given the number of authors, including emails for every author might be a bit much. Maybe include for first and last authors?-->
 
-<!--# Authors (in alphabetical order by last name): Allie Chipman, Roland Knapp, Parker Land, Georgia Lattig, Forest Peri, Cob Staines, Leonie Walderich. Anybody else? Decide on order, with Roland last.  -->
+<!--# Authors (in alphabetical order by last name): Allie Chipman (?), Roland Knapp, Parker Land, Georgia Lattig, Forest Peri, Cob Staines, Leonie Walderich. Anybody else? Decide on order, with Roland last.  -->
