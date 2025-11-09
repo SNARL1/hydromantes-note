@@ -100,14 +100,16 @@ Again, we found no *H. platycephalus* during the diurnal survey of 20276 or the 
 However, we saw 20-30 *H. platycephalus* during each of the two nocturnal surveys of 20276, and salamanders were concentrated on the southeast and northeast shorelines.
 In both years, *H. platycephalus* seen at 20276 were observed on wet rocks and moss on the shore within 0--1 m of the lake.
 
-On 08-09 August 2025, PL, GL, and JP<!--# Who is "JP"? --> surveyed an unnamed lake west of Mount Goddard in Kings Canyon National Park (site id = 10114; 37.1020°N, -118.7371°W, 3409 m).
+On 08--09 August 2025, PL, GL, and JP<!--# Who is "JP"? (Jacob Politi on the SEKI aquatics crew was present for H. platycephalus observations at Goddard with PL and GL. We texted him to see if he remembered anything else but should discuss authorship.) --> surveyed an unnamed lake west of Mount Goddard in Kings Canyon National Park (site id = 10114; 37.1020°N, -118.7371°W, WGS 84, 3409 m).
 This alpine lake is at the headwaters of the South Fork San Joaquin River, has a surface area of 6.6 ha, a maximum depth of 28.5 m, and a shoreline composed of metavolcanic rock and meadow vegetation.
-During diurnal surveys conducted on 08 August and 09 August <!--# Add survey start and end time -->of the entire lake shoreline and associated inlets and outlets, XX <!--# How many? -->*H. platycephalus* were found along the northern inlet <!--# northeastern inlet? I'm guessing this from Google Earth -->of 10114.
-During a nocturnal survey of WHAT HABITATS on 08 August <!--# Add survey start and end time -->, we observed five H. platycephalus on the lake shoreline. Two of these salamanders were under an overhanging grassy bank within 1 m of the lake, one was approximately 5 m from the lake shore on a dry, vegetated slope, and the remaining two were in <!--# what type of habitat? -->.
+During diurnal surveys conducted on 08 August and 09 August (08 August 1140--1710; 09 August, 1050--1320 h) of the entire lake shoreline and associated inlets and outlets, 7 *H. platycephalus* <!--# 5 were found on 08 August and 2 were found on 09 August in the same locality with possible overlap in individuals. How should we report the numbers? 5? -->were found along the northeastern inlet of 10114.
+These salamanders were found under rocks in the spray zone of a small waterfall approximately 50 m up the inlet.
+During a nocturnal survey of the entire lake shoreline and northeastern inlet of 10114 on 08 August (2120--2330 h), we observed two *H. platycephalus* in the same locality in the northeastern inlet and three *H. platycephalus* on the lake shoreline.
+Two of these three salamanders were under an overhanging grassy bank within 1 m of the lake and one was approximately 5 m from the lake shore on a dry, vegetated slope.
 
 <!--# Text for likely deletion: three smaller unnamed lakes to the north (located near 37.11124°N, -118.73734°W, 3495 m) for three consecutive days on 08 August – 10 August 2025.  -->
 
-In 2024, PL, GL, and AC surveyed an unnamed lake (lake ID = 70413) in Yosemite National Park (37.7198°N, -119.2803°W, WGS 84, 3322 m) for *H. platycephalus*.
+In 2024, PL and GL <!--# AC did not suvey with us for H. platycephalus -->surveyed an unnamed lake (lake ID = 70413) in Yosemite National Park (37.7198°N, -119.2803°W, WGS 84, 3322 m) for *H. platycephalus*.
 The lake is located at the headwaters of the Lyell Fork of the Merced River, and has a surface area of 2.3 ha and a maximum depth of 10.5 m.
 On 22 July, PL and GL conducted a nocturnal survey (2130-2245 h) of the granite talus habitat above 70413, the northern inlet stream, and the northwestern shoreline of the lake.
 Along the northern inlet, 11 adult *H. platycephalus* were observed occupying granite bedrock, talus, moss substrate, and meadow habitat bordering the creek and within 100 m of the lake <!--# Verify this -->.
@@ -116,10 +118,10 @@ On 23 July, PL conducted a nocturnal survey of the entire shoreline of 70413 and
 No *H. platycephalus* were observed along the inlet stream where they were seen the previous night.
 However, a single salamander was observed on the northern shoreline, on a vegetated bank within 1 m <!--# Verify the accuracy of this or update with a more precise distance -->of the lake.
 In 2025, PL, GL, and LW again searched site 70413 for *H. platycephalus*.
-On 18 August, during a diurnal survey of the lake shore and associated inlet and outlet streams <!--# Add time range -->, no salamanders were seen.
+On 18 August, during a diurnal survey of the lake shore and associated inlet and outlet streams (1250--1750), no salamanders were seen.
 On 19 August, we conducted a nocturnal survey (2100-2230 h) of the northwestern inlet <!--# Is this the same inlet that is referred to in the previous paragraph as the "northern" inlet? If so, revise the text in both locations to use the same descriptor. -->and the northern lake shore.
 Two *H. platycephalus* were observed along the inlet, within 100 m of the lake.
-On northern lake shore, we found \> 60 salamanders.
+On the northern lake shore, we found \> 60 salamanders.
 Most were found 0--1 m from lake, including on patches of moss, vegetated banks, and at the base of bank along a sandy shore.
 Notably, three individuals were found submerged in shallow water near shore, and all three were actively moving along the lake substrate <!--# Verify accuracy of this sentence -->.
 
