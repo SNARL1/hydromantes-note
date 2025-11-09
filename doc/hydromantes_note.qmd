@@ -103,29 +103,32 @@ In both years, *H. platycephalus* seen at 20276 were observed on wet rocks and m
 On 08--09 August 2025, PL, GL, and JP<!--# Who is "JP"? (Jacob Politi on the SEKI aquatics crew was present for H. platycephalus observations at Goddard with PL and GL. We texted him to see if he remembered anything else but should discuss authorship.) --> surveyed an unnamed lake west of Mount Goddard in Kings Canyon National Park (site id = 10114; 37.1020°N, -118.7371°W, WGS 84, 3409 m).
 This alpine lake is at the headwaters of the South Fork San Joaquin River, has a surface area of 6.6 ha, a maximum depth of 28.5 m, and a shoreline composed of metavolcanic rock and meadow vegetation.
 During diurnal surveys conducted on 08 August and 09 August (08 August 1140--1710; 09 August, 1050--1320 h) of the entire lake shoreline and associated inlets and outlets, 7 *H. platycephalus* <!--# 5 were found on 08 August and 2 were found on 09 August in the same locality with possible overlap in individuals. How should we report the numbers? 5? -->were found along the northeastern inlet of 10114.
-These salamanders were found under rocks in the spray zone of a small waterfall approximately 50 m up the inlet.
+These salamanders were found under rocks in the spray zone of a small waterfall approximately 20 m <!--# Verify this distance with PL. -->up the inlet.
 During a nocturnal survey of the entire lake shoreline and northeastern inlet of 10114 on 08 August (2120--2330 h), we observed two *H. platycephalus* in the same locality in the northeastern inlet and three *H. platycephalus* on the lake shoreline.
-Two of these three salamanders were under an overhanging grassy bank within 1 m of the lake and one was approximately 5 m from the lake shore on a dry, vegetated slope.
+Two of these three salamanders were under an overhanging grassy bank within 0--1 m of the lake and one was approximately 5 m from the lake shore on a dry, vegetated slope.
 
 <!--# Text for likely deletion: three smaller unnamed lakes to the north (located near 37.11124°N, -118.73734°W, 3495 m) for three consecutive days on 08 August – 10 August 2025.  -->
 
-In 2024, PL and GL <!--# AC did not suvey with us for H. platycephalus -->surveyed an unnamed lake (lake ID = 70413) in Yosemite National Park (37.7198°N, -119.2803°W, WGS 84, 3322 m) for *H. platycephalus*.
+In 2024, PL and GL <!--# AC did not suvey with us for H. platycephalus -GL-->surveyed an unnamed lake (lake ID = 70413) in Yosemite National Park (37.7198°N, -119.2803°W, WGS 84, 3322 m) for *H. platycephalus*.
 The lake is located at the headwaters of the Lyell Fork of the Merced River, and has a surface area of 2.3 ha and a maximum depth of 10.5 m.
-On 22 July, PL and GL conducted a nocturnal survey (2130-2245 h) of the granite talus habitat above 70413, the northern inlet stream, and the northwestern shoreline of the lake.
-Along the northern inlet, 11 adult *H. platycephalus* were observed occupying granite bedrock, talus, moss substrate, and meadow habitat bordering the creek and within 100 m of the lake <!--# Verify this -->.
+On 22 July, PL and GL conducted a nocturnal survey (2130-2245 h) of the granite talus habitat above 70413, the northern inlet, and the northwestern shoreline of the lake.
+Along the northern inlet, 11 adult *H. platycephalus* were observed occupying granite bedrock, talus, moss substrate, and meadow habitat bordering the creek and within 100 m of the lake <!--# Verify this (100 or 150m I would say -GL)-->.
 No individuals were observed in the talus habitat above the lake or along the northwestern lake shore.
 On 23 July, PL conducted a nocturnal survey of the entire shoreline of 70413 and associated inlet and outlet streams (2150-0200 h).
-No *H. platycephalus* were observed along the inlet stream where they were seen the previous night.
+No *H. platycephalus* were observed along the northern inlet where they were seen the previous night.
 However, a single salamander was observed on the northern shoreline, on a vegetated bank within 1 m <!--# Verify the accuracy of this or update with a more precise distance -->of the lake.
 In 2025, PL, GL, and LW again searched site 70413 for *H. platycephalus*.
 On 18 August, during a diurnal survey of the lake shore and associated inlet and outlet streams (1250--1750), no salamanders were seen.
 On 19 August, we conducted a nocturnal survey (2100-2230 h) of the northwestern inlet <!--# Is this the same inlet that is referred to in the previous paragraph as the "northern" inlet? If so, revise the text in both locations to use the same descriptor. -->and the northern lake shore.
-Two *H. platycephalus* were observed along the inlet, within 100 m of the lake.
+Two *H. platycephalus* were observed along the northern inlet, within 100 m of the lake.
 On the northern lake shore, we found \> 60 salamanders.
-Most were found 0--1 m from lake, including on patches of moss, vegetated banks, and at the base of bank along a sandy shore.
-Notably, three individuals were found submerged in shallow water near shore, and all three were actively moving along the lake substrate <!--# Verify accuracy of this sentence -->.
+Most were found 0--1 m from lake, including on mossy substrate, in meadow vegetation, and at the base of a grassy bank along a sandy shore.
+Notably, three individuals were found submerged in shallow water at the shoreline, and all three were actively moving along the lake substrate <!--# Verify accuracy of this sentence  (I don't remember them locomoting anywhere but they were all definitely alive -GL)-->.
+During our August 2025 surveys, we noted that the basin in which 70413 is situated was much drier and that the water levels of 70413 and surrounding unnamed lakes, as well as the flow of the northern inlet of 70413, were significantly less than they had been during our surveys in July 2024.
+Although speculative, we wonder if the retreating water level of 70413 in August 2025 was pushing salamanders from nearby habitats to the lake shore in search of moisture.
+<!--# PL and I discussed adding a sentence or two to address the comparative lack of water in the Lyell Basin in 2025. Maybe adding this sort of speculation to this note is not appropriate? but we both supposed that the shoreline where we saw 60+ individuals in 2025 had been underwater in 2024. Feel free to edit. -GL -->
 
-Our observations of *H. platycephalus* indicate that, in addition to their known association with upland habitats in the Sierra Nevada, the species also utilizes moist lake shore habitats and even underwater littoral habitats of lakes.
+Our observations of *H. platycephalus* indicate that, in addition to their known association with upland habitats in the Sierra Nevada, the species also utilizes lake shore habitats and even underwater littoral habitats of lakes.
 The unusually high abundance of *H. platycephalus* observed along lake shores during some surveys suggests the importance of these lentic habitats for this poorly-understood species.
 
 Possible photos/videos for inclusion: South Lyell: IMG_2468 2.MOV, IMG_2478 2.MOV, IMG_2470.HEIC
