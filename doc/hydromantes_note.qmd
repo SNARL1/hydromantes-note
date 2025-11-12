@@ -3,8 +3,7 @@ format: html
 editor: visual
 ---
 
-***HYDROMANTES PLATYCEPHALUS*** (Mount Lyell Salamander)**.
-LENTIC HABITAT USE.**
+***HYDROMANTES PLATYCEPHALUS*** (Mount Lyell Salamander)**. LENTIC HABITAT USE.**
 
 ```{r rovito_data}
 #| include: false
@@ -195,11 +194,9 @@ All three salamanders were alive, as evidenced by their movement when in the bea
 Our observations of *H. platycephalus* indicate that, in addition to the known association of *H. platycephalus* with upland habitats in the Sierra Nevada, the species also utilizes lake shore habitats and even underwater littoral habitats of lakes.
 The unusually high abundance of *H. platycephalus* observed along lake shores during some surveys suggests the importance of these lentic habitats for this poorly-understood species.
 
-Possible photos/videos for inclusion: South Lyell: IMG_2468 2.MOV, IMG_2478 2.MOV, IMG_2470.HEIC
-
 [FIG. 1]{.smallcaps}.
-Seven adult *Hydromantes platycephalus* along the shoreline of lake 70413 in Yosemite National Park, USA. The lake is visible in the immediate foreground.
-<!--# IMG_2470.HEIC -->
+Seven adult *Hydromantes platycephalus* observed along the shoreline of lake 70413 in Yosemite National Park, USA during a nocturnal survey on 19 August 2025.
+The lake is visible in the immediate foreground.
 
 PARKER X. LAND (parkerland29\@gmail.com), GEORGIA X. LATTIG, and LEONIE M. WALDERICH, Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
 JACOB X. STAINES, Affiliation; FOREST X. PERI and ROLAND A. KNAPP (roland.knapp\@ucsb.edu), Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
