@@ -3,8 +3,8 @@ format: html
 editor: visual
 ---
 
-***HYDROMANTES PLATYCEPHALUS*** **(**Mount Lyell Salamander).
-**LENTIC HABITAT USE**.
+***HYDROMANTES PLATYCEPHALUS*** (Mount Lyell Salamander)**.
+LENTIC HABITAT USE.**
 
 ```{r rovito_data}
 #| include: false
