@@ -189,7 +189,14 @@ On the northern lake shore, we found \> 60 *H. platycephalus* (Fig. 1).
 Nearly all were observed on moss, in meadow vegetation, or at the base of a grassy bank along a sandy beach, and within 0--0.5 m of the lake.
 Notably, of these approximately 60 *H. platycephalus*, three individuals were submerged in shallow water at the shoreline.
 All three salamanders were alive, as evidenced by their movement when in the beam of a headlamp.
-<!--# Probably too much detail: During our August 2025 surveys of this site, the water level of 70413 and the flow of the northern inlet were substantially less than during our surveys in July 2024. As such, we suggest that the retreating water level of 70413 in August 2025 was pushing salamanders from nearby habitats to the lake shore in search of moisture. -->
+
+<!--# We extended the known range of Hp west of the crest -->
+
+<!--# Try flipping N to S -->
+
+<!--# Make sure that Forest's observations are included. -->
+
+<!--# Include URL to video? -->
 
 Our observations of *H. platycephalus* indicate that, in addition to the known association of *H. platycephalus* with upland habitats in the Sierra Nevada, the species also utilizes lake shore habitats and even underwater littoral habitats of lakes.
 The unusually high abundance of *H. platycephalus* observed along lake shores during some surveys suggests the importance of these lentic habitats for this poorly-understood species.
@@ -199,8 +206,8 @@ Seven adult *Hydromantes platycephalus* observed along the shoreline of lake 704
 Each salamander is indicated with a black arrow.
 The lake is visible in the immediate foreground.
 
-PARKER X. LAND (parkerland29\@gmail.com), GEORGIA X. LATTIG, and LEONIE M. WALDERICH, Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
-JACOB X. STAINES, Affiliation; FOREST X. PERI and ROLAND A. KNAPP (roland.knapp\@ucsb.edu), Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
+PARKER R. LAND (parkerland29\@gmail.com), GEORGIA Q. LATTIG (glattig24\@coa.edu), and LEONIE M. WALDERICH, Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
+JACOB W. STAINES, Affiliation; FOREST D. PERI and ROLAND A. KNAPP (roland.knapp\@ucsb.edu), Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, California 93546, USA & Earth Research Institute, University of California, Santa Barbara, California 93106, USA.
 *First cut on author order based solely on Roland's best guess on relative survey effort by each author. Discuss and finalize. Everyone also needs to add their middle initial, if they want that included in their name.*
 
 <!--# Submit in .docx or .odf format via email attachment to Laine Giovanetto: lgiovanetto@ymail.com -->
