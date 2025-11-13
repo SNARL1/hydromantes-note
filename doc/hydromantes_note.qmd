@@ -179,13 +179,13 @@ In Sequoia National Park, on 06 Aug 2011 (2030-2130 h), RK searched for *H. plat
 On 07 Aug 2011 (approximately 2100 h), RK searched similar habitat above and approximately 300 m west of an unnamed lake (site id = 20276; `r info_20276$lat`°N, `r info_20276$lon`°W, WGS 84, `r info_20276$elevation` m elev.) located in the headwaters of Laurel Creek.
 Coyote and Laurel Creeks are tributaries of the Kern River.
 Despite the searched sites being `r dist_coyote` km and `r dist_laurel` km, respectively, southeast of the southernmost known *H. platycephalus* locality west of the Sierra Nevada crest (Wake and Papenfuss 2005), 5--10 *H. platycephalus* were found at each location.
-The Laurel Creek area was surveyed again in 2024 (by FP and RK) and 2025 (by CS and RK), with a focus on lake 20276.
+The Laurel Creek area was surveyed again in 2024 (by FP and RK) and 2025 (by JS and RK), with a focus on lake 20276.
 20276 has a surface area of `r info_20276$area` ha and a maximum depth of `r info_20276$depth_max` m.
 During 14--16 July 2024, we conducted one diurnal survey (0910-1210 h) and two nocturnal surveys (2130--2315 h) of the entire shoreline and associated inlet and outlet streams of 20276, and one nocturnal survey of the original bedrock outcrop locality (approximately 2200 h).
 During the diurnal survey of 20276, no *H. platycephalus* were found.
 During the two nocturnal surveys of 20276, we observed a total of 9 *H. platycephalus* (2 on 15 July, 7 on 16 July), all on the northeast shore.
 We found no *H. platycephalus* during the nocturnal survey at the original outcrop locality.
-In 2025, we repeated this survey, conducting one diurnal survey (12 July, 0900--1110 h) and two nocturnal surveys of the entire shoreline of 20276 (12 July, 2130--2345 h; 13 July, 2140--2310 h), and one nocturnal survey of the original outcrop locality (13 July, approximately 2315 h).
+In 2025, we repeated this survey, conducting one diurnal survey (12 July, 0900--1110 h) and two nocturnal surveys of the entire shoreline of 20276 (12 July, 2130--2345 h; 13 July, 2140--2310 h), and one nocturnal survey of the original outcrop locality (13 July, 2315 h).
 Again, we found no *H. platycephalus* during the diurnal survey of 20276 or the nocturnal survey of the original outcrop locality.
 However, we saw 20-30 *H. platycephalus* during each of the two nocturnal surveys of 20276, concentrated on the southeast and northeast shorelines.
 In both years, *H*.
